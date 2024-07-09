@@ -1,0 +1,19 @@
+h1{
+    background: hotpink;
+    background-color: blue;
+    font-style: italic;
+}
+#id3{
+    border: 2px solid red;
+    border-style: dotted;
+}
+.box1{
+    border: 2px solid red;
+    border-style: dotted;
+    margin-left: 30px;
+    margin-top: 10%;
+    margin: 30% 1px 45px 3%;
+    padding:3%;
+
+}
+
